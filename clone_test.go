@@ -1,10 +1,10 @@
-package clonectx_test
+package appctx_test
 
 import (
 	"context"
 	"fmt"
 
-	"github.com/izumin5210/clonectx"
+	"github.com/izumin5210/appctx"
 )
 
 func ExampleClone() {
@@ -20,7 +20,7 @@ func ExampleClone() {
 	baseCtx = context.WithValue(baseCtx, "user_id", 123)
 	baseCtx = context.WithValue(baseCtx, "request_id", "7de4f345-8a68-47bc-a1df-90299f95d753")
 
-	newCtx := clonectx.Clone(baseCtx)
+	newCtx := appctx.Clone(baseCtx)
 	cancel()
 
 	// Output:
