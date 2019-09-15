@@ -3,7 +3,14 @@
 [![GitHub release](https://img.shields.io/github/release/izumin5210/appctx.svg)](https://github.com/izumin5210/appctx/releases/latest)
 [![GitHub](https://img.shields.io/github/license/izumin5210/appctx.svg)](./LICENSE)
 
-## Example
+## Examples
+### Global
+
+```
+// canceled this context when received os signals for termination
+ctx := appctx.Global()
+```
+
 ### Clone
 
 ```go
