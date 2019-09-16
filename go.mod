@@ -1,3 +1,3 @@
-module github.com/izumin5210/appctx
+module github.com/srvc/appctx
 
 go 1.12

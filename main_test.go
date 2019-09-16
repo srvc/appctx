@@ -4,7 +4,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/izumin5210/appctx"
+	"github.com/srvc/appctx"
 )
 
 func TestMain(m *testing.M) {

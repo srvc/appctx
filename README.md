@@ -1,7 +1,7 @@
 # appctx
-[![GoDoc](https://godoc.org/github.com/izumin5210/appctx?status.svg)](https://godoc.org/github.com/izumin5210/appctx)
-[![GitHub release](https://img.shields.io/github/release/izumin5210/appctx.svg)](https://github.com/izumin5210/appctx/releases/latest)
-[![GitHub](https://img.shields.io/github/license/izumin5210/appctx.svg)](./LICENSE)
+[![GoDoc](https://godoc.org/github.com/srvc/appctx?status.svg)](https://godoc.org/github.com/srvc/appctx)
+[![GitHub release](https://img.shields.io/github/release/srvc/appctx.svg)](https://github.com/srvc/appctx/releases/latest)
+[![GitHub](https://img.shields.io/github/license/srvc/appctx.svg)](./LICENSE)
 
 ## Examples
 ### Global

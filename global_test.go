@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/izumin5210/appctx"
+	"github.com/srvc/appctx"
 )
 
 func TestGlobal(t *testing.T) {

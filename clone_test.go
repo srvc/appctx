@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/izumin5210/appctx"
+	"github.com/srvc/appctx"
 )
 
 func ExampleClone() {
