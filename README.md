@@ -6,10 +6,12 @@
 ## Examples
 ### Global
 
-```
+```go
 // canceled this context when received os signals for termination
 ctx := appctx.Global()
 ```
+
+inspired by [github.com/moby/buildkit/util/appcontext](https://github.com/moby/buildkit/blob/v0.6.1/util/appcontext/appcontext.go)
 
 ### Clone
 
