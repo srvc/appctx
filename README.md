@@ -1,4 +1,5 @@
 # appctx
+[![CI](https://github.com/srvc/appctx/workflows/CI/badge.svg)](https://github.com/srvc/appctx/actions?workflow=CI)
 [![GoDoc](https://godoc.org/github.com/srvc/appctx?status.svg)](https://godoc.org/github.com/srvc/appctx)
 [![GitHub release](https://img.shields.io/github/release/srvc/appctx.svg)](https://github.com/srvc/appctx/releases/latest)
 [![GitHub](https://img.shields.io/github/license/srvc/appctx.svg)](./LICENSE)
